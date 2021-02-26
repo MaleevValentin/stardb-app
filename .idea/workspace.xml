@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebd69e4c-be11-4229-a38d-94adfbb181b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nUI9f3zB85VTfUTvEs2AXUpJlh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react-apps\star-db\src\components\error-indicator" />
+      <recent name="D:\react-apps\star-db\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd69e4c-be11-4229-a38d-94adfbb181b5" name="Default Changelist" comment="" />
+      <created>1611438092605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611438092605</updated>
+      <workItem from="1611438094191" duration="2930000" />
+      <workItem from="1611605598909" duration="6646000" />
+      <workItem from="1611691867876" duration="7327000" />
+      <workItem from="1611889209132" duration="6572000" />
+      <workItem from="1611952229264" duration="10762000" />
+      <workItem from="1612011368886" duration="3711000" />
+      <workItem from="1612098574155" duration="2653000" />
+      <workItem from="1612116979803" duration="7046000" />
+      <workItem from="1612235133177" duration="7168000" />
+      <workItem from="1612383518638" duration="8624000" />
+      <workItem from="1612494274459" duration="86000" />
+      <workItem from="1612494920008" duration="106000" />
+      <workItem from="1612495531647" duration="26000" />
+      <workItem from="1612495598426" duration="81000" />
+      <workItem from="1612495712470" duration="476000" />
+      <workItem from="1612496747613" duration="4660000" />
+      <workItem from="1612580791028" duration="9096000" />
+      <workItem from="1612840522966" duration="5516000" />
+      <workItem from="1613013832428" duration="5998000" />
+      <workItem from="1613098967308" duration="7258000" />
+      <workItem from="1613159157119" duration="7264000" />
+      <workItem from="1613214789904" duration="599000" />
+      <workItem from="1613302471621" duration="152000" />
+      <workItem from="1614196890629" duration="6136000" />
+      <workItem from="1614308126424" duration="3985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
