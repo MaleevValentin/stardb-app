@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebd69e4c-be11-4229-a38d-94adfbb181b5" name="Default Changelist" comment="feat: add relative path header">
+    <list default="true" id="ebd69e4c-be11-4229-a38d-94adfbb181b5" name="Default Changelist" comment="feat: add optional params for peoplePage">
+      <change afterPath="$PROJECT_DIR$/src/components/pages/login-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/secret-page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/people-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/people-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +95,7 @@
       <workItem from="1614308126424" duration="3985000" />
       <workItem from="1614314898772" duration="228000" />
       <workItem from="1614315145131" duration="974000" />
-      <workItem from="1614370432111" duration="1038000" />
+      <workItem from="1614370432111" duration="3358000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add relative path header">
       <created>1614315511584</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614315511584</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add optional params for peoplePage">
+      <created>1614371816811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614371816811</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add relative path header" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add relative path header" />
+    <MESSAGE value="feat: add optional params for peoplePage" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add optional params for peoplePage" />
   </component>
 </project>
